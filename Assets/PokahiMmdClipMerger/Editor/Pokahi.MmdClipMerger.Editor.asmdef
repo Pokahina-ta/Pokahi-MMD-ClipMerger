@@ -1,0 +1,7 @@
+{
+  "name": "Pokahi.MmdClipMerger.Editor",
+  "rootNamespace": "Pokahi.MmdClipMerger",
+  "includePlatforms": [
+    "Editor"
+  ]
+}
